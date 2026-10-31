@@ -1,0 +1,25 @@
+# Dependensi Proyek Analisis Sentimen Ulasan Sneakers Tokopedia
+# Dicoding Submission - Machine Learning & Deep Learning
+
+# Web Scraping
+playwright==1.64.1
+
+# Pemrosesan Data & Analisis
+pandas==3.1.0
+numpy==2.5.4
+
+# Deep Learning & Transformers
+torch==2.14.1
+transformers==5.21.0
+
+# Evaluasi & Machine Learning
+scikit-learn==1.9.1
+
+# Visualisasi & Utilitas
+matplotlib==3.11.2
+tqdm==4.70.1
+
+# Eksekusi Lingkungan Notebook
+jupyter>=1.0.0
+ipykernel>=6.29.0
+nbconvert>=7.16.0

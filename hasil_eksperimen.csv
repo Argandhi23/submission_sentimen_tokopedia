@@ -1,0 +1,4 @@
+Skema,Algoritma,Ekstraksi Fitur,Pembagian Data,Akurasi Train,Akurasi Test,Train > 92%,Test > 92%,Test >= 85%
+Skema 1,IndoBERT Base,WordPiece Subword,80/20,0.9925682261208577,0.9469298245614035,True,True,True
+Skema 2,IndoBERT Base,WordPiece Subword,70/30,0.9785575048732943,0.9421052631578948,True,True,True
+Skema 3,IndoBERT-CNN Hybrid,WordPiece Subword (+ Conv1D Head),80/20,0.9923245614035088,0.9434210526315789,True,True,True
